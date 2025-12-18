@@ -3,7 +3,6 @@
 **All-in-one platform for managing teams and projects.**
 
 ## Features
-- Task management (ToDo)
 - Project tracking with deadlines and budgets
 - Team finance dashboard
 - Charts, diagrams, PDFs
